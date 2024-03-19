@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/balu/static/css/main.e6c13ad2.css",
+    "main.js": "/balu/static/js/main.4aaaa35c.js",
+    "static/js/453.d16ea847.chunk.js": "/balu/static/js/453.d16ea847.chunk.js",
+    "static/media/img2.JPG": "/balu/static/media/img2.3ea89e71f3b0c55dfeb6.JPG",
+    "static/media/img6.JPG": "/balu/static/media/img6.52c6fa2e4a6dde9abe23.JPG",
+    "static/media/img7.JPG": "/balu/static/media/img7.e0e3344120c06c5a706d.JPG",
+    "static/media/img1.jpg": "/balu/static/media/img1.c7eee4f2ab498c10d424.jpg",
+    "static/media/img.JPG": "/balu/static/media/img.71995037c664113b6e30.JPG",
+    "static/media/img5.jpg": "/balu/static/media/img5.8ec7339019cdeb5b2736.jpg",
+    "static/media/img3.JPG": "/balu/static/media/img3.8b5ae669f2610e955710.JPG",
+    "static/media/img4.jpg": "/balu/static/media/img4.91c64d78b6e9461584fb.jpg",
+    "index.html": "/balu/index.html",
+    "main.e6c13ad2.css.map": "/balu/static/css/main.e6c13ad2.css.map",
+    "main.4aaaa35c.js.map": "/balu/static/js/main.4aaaa35c.js.map",
+    "453.d16ea847.chunk.js.map": "/balu/static/js/453.d16ea847.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4aaaa35c.js"
+  ]
+}
